@@ -847,3 +847,22 @@ For issues and questions:
 **Version**: 1.0.0  
 **Last Updated**: 2024  
 **Status**: Active Development ✅
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboards.png)
+
+### Input Code
+![Input](screenshots/input.png)
+
+### Result 1
+![Result 1](screenshots/result1.png)
+
+### Result 2
+![Result 2](screenshots/result2.png)
+
+### Result 3
+![Result 3](screenshots/result3.png)
+
+### Result 4
+![Result 4](screenshots/result4.png)
